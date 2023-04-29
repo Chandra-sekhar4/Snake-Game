@@ -14,7 +14,6 @@ The snake will continue moving in its current direction until a new direction is
 Eat the food pellets to grow longer and increase your score.
 Avoid hitting the walls or colliding with your own body.
 
-
 #### Features
 The game keeps track of your score and high score, which are displayed at the top of the screen.
 The game gets progressively harder as your score increases, by increasing the speed of the snake.
